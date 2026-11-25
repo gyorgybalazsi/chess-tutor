@@ -1,0 +1,19 @@
+[package]
+name = "tutor-ui"
+description = "Chess analysis board with Stockfish evaluations and Claude explanations"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[[bin]]
+name = "chess-tutor"
+path = "src/main.rs"
+
+[dependencies]
+chess-core = { path = "../chess-core" }
+shakmaty.workspace = true
+anyhow.workspace = true
+eframe = "0.33"
+rfd = "0.15"

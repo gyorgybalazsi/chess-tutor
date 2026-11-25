@@ -1,0 +1,13 @@
+/home/user/chess-tutor/target/debug/deps/pgn_reader-c4a1f1a2c56619ea.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/buffer.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/comment.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/nag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/reader.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/tag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/visitor.rs
+
+/home/user/chess-tutor/target/debug/deps/libpgn_reader-c4a1f1a2c56619ea.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/buffer.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/comment.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/nag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/reader.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/tag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/visitor.rs
+
+/home/user/chess-tutor/target/debug/deps/libpgn_reader-c4a1f1a2c56619ea.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/buffer.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/comment.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/nag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/reader.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/tag.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/visitor.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/buffer.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/comment.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/nag.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/reader.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/tag.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pgn-reader-0.29.2/src/visitor.rs:

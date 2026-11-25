@@ -1,0 +1,12 @@
+/home/user/chess-tutor/target/debug/deps/crc32fast-7e456179f3780e22.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/baseline.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/combine.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/table.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/pclmulqdq.rs
+
+/home/user/chess-tutor/target/debug/deps/libcrc32fast-7e456179f3780e22.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/baseline.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/combine.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/table.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/pclmulqdq.rs
+
+/home/user/chess-tutor/target/debug/deps/libcrc32fast-7e456179f3780e22.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/baseline.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/combine.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/table.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/pclmulqdq.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/baseline.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/combine.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/mod.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/table.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.6/src/specialized/pclmulqdq.rs:
